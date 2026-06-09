@@ -12,7 +12,7 @@ A Python-based educational project for simulating the physical layer of digital 
 - Signal visualization
 
 ## 🛠️ Installation
-bash
+```bash
 pip install numpy matplotlib
 
 ## ▶️ Run
