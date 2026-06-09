@@ -13,7 +13,7 @@ A Python-based educational project for simulating the physical layer of digital 
 
 ## 🛠️ Installation
 ```bash
-pip install numpy matplotlib
+pip install numpy matplotlib```
 
 ## ▶️ Run
 python simulator.py
